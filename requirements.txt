@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+geopandas
+gunicorn
+streamlit_option_menu
+matplotlib
+folium
+streamlit_folium
+branca
