@@ -120,7 +120,7 @@ if seleccion == "Contexto":
     st.image("https://fundaciondelcorazon.com/images/stories/iStock-949190756.jpg")
 
     st.markdown("""
-                Se tiene información sobre distintos eventos deportivos
+                Se tiene información sobre 200 eventos deportivos
                 realizados en Colombia. Esta información viene dada por características
                 como: **el departamento donde se realizó**, **el tipo de evento(deporte)**,
                 **la asistencia al evento**, y **la duración del mismo**.""")
@@ -269,3 +269,4 @@ elif seleccion== "Conclusiones":
                 personas que no conozcan o no practiquen el deporte en cuestión,
                 cuanto suele durar un evento de este mismo.""")
     
+
